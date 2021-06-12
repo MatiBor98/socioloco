@@ -1,0 +1,6 @@
+facultad/tse/logica/entidades/Sexo.class
+facultad/tse/logica/data/DatosCiudadanoRepository.class
+facultad/tse/logica/entidades/Ciudadano.class
+facultad/tse/beans/agregarBean.class
+facultad/tse/servlet/Agregar.class
+facultad/tse/logica/entidades/Trabajo.class
